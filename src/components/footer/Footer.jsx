@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer id="footer">
       <a href="" className="footer__logo">
-        رضا بختیاری
+        زهرا ناصری
       </a>
 
       <ul className="peramlinks">
